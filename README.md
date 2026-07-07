@@ -18,6 +18,6 @@ You can explore the full interactive project here:
 1. Click the link above to access the interactive dashboard.
 2. Use the filters on the side to select specific States or Crops to see how the charts update dynamically.
 ## Project Documentation
-https://github.com/gajjalapavanadeepika-debug/India-s-Agricultural-Crop-Production-Analysis/blob/main/Project%20Documentation.pdf
+https://github.com/gajjalapavanadeepika-debug/India-s-Agricultural-Crop-Production-Analysis/blob/main/7.%20Project%20Documentation/Final%20Report%20Template.pdf
  ## Project Presentation Video
  https://github.com/gajjalapavanadeepika-debug/India-s-Agricultural-Crop-Production-Analysis/releases/download/v1.0/WhatsApp.Video.2026-07-04.at.6.14.03.PM.mp4
