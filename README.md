@@ -17,7 +17,16 @@ You can explore the full interactive project here:
 ## How to use this project
 1. Click the link above to access the interactive dashboard.
 2. Use the filters on the side to select specific States or Crops to see how the charts update dynamically.
-## Project Documentation
-https://github.com/gajjalapavanadeepika-debug/India-s-Agricultural-Crop-Production-Analysis/blob/main/7.%20Project%20Documentation/Final%20Report%20Template.pdf
+ ## Project Documentation
+ 
  ## Project Presentation Video
 https://github.com/gajjalapavanadeepika-debug/India-s-Agricultural-Crop-Production-Analysis/raw/refs/heads/main/7.%20Project%20Documentation/Demo.mp4
+### Project Structure
+- **1. Ideation Phase**: Problem statement, Empathy map, Brainstorming
+- **2. Requirement Analysis**: Customer journey, Data flow, Tech stack
+- **3. Project Design Phase**: Solution fit, Architecture
+- **4. Project Planning Phase**: Planning templates
+- **5. Project Development Phase**: Business questions, Visualizations
+- **6. Performance Testing Phase**: Testing templates
+- **7. Project Documentation**: Final reports and demo videos
+-
